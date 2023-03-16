@@ -28,12 +28,28 @@ namespace Project1
             {
                 Point lastPosition = position;
                 keysReleased = false;
-                if (kState.IsKeyDown(Keys.A)) position.X--;
-                else if (kState.IsKeyDown(Keys.W)) position.Y--;
-                else if (kState.IsKeyDown(Keys.S)) position.Y++;
-                else if (kState.IsKeyDown(Keys.D)) position.X++;
+                if ((kState.IsKeyDown(Keys.A)) || (kState.IsKeyDown(Keys.Left)))
+                {
+                    position.X--;
+                    game.direction = Direction.Left;
+                }
+                else if ((kState.IsKeyDown(Keys.W)) || (kState.IsKeyDown(Keys.Up)))
+                {
+                    position.Y--;
+                    game.direction = Direction.Up;
+                }
+                else if ((kState.IsKeyDown(Keys.S)) || (kState.IsKeyDown(Keys.Down)))
+                {
+                    position.Y++;
+                    game.direction = Direction.Down;
+                }
+                else if ((kState.IsKeyDown(Keys.D)) || (kState.IsKeyDown(Keys.Right)))
+                {
+                    position.X++;
+                    game.direction = Direction.Right;
+                }
                 else keysReleased = true;
-                
+
                 // destino é caixa?
                 if (game.HasBox(position.X, position.Y))
                 {

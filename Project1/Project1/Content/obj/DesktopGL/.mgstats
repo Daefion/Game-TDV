@@ -1,7 +1,11 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
-"E:/Game-TDV/Project1/Project1/Content/Character4.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character4.xnb","TextureProcessor","Texture2DContent",1668,8817,0,2297018
-"E:/Game-TDV/Project1/Project1/Content/Crate_Gray.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Crate_Gray.xnb","TextureProcessor","Texture2DContent",1094,16469,0,0039007
-"E:/Game-TDV/Project1/Project1/Content/EndPoint_Yellow.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/EndPoint_Yellow.xnb","TextureProcessor","Texture2DContent",565,4181,0,0033327
-"E:/Game-TDV/Project1/Project1/Content/File.spritefont","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,37919,0,1733718
-"E:/Game-TDV/Project1/Project1/Content/Ground_Grass.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Ground_Grass.xnb","TextureProcessor","Texture2DContent",215,16469,0,009102
-"E:/Game-TDV/Project1/Project1/Content/WallRound_Black.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/WallRound_Black.xnb","TextureProcessor","Texture2DContent",1541,16469,0,0041993
+"E:/Game-TDV/Project1/Project1/Content/Character1.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character1.xnb","TextureProcessor","Texture2DContent",1487,9997,0,1800095
+"E:/Game-TDV/Project1/Project1/Content/Character10.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character10.xnb","TextureProcessor","Texture2DContent",1544,9829,0,002519
+"E:/Game-TDV/Project1/Project1/Content/Character2.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character2.xnb","TextureProcessor","Texture2DContent",1474,9997,0,002686
+"E:/Game-TDV/Project1/Project1/Content/Character3.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character3.xnb","TextureProcessor","Texture2DContent",1564,9829,0,0028129
+"E:/Game-TDV/Project1/Project1/Content/Character5.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character5.xnb","TextureProcessor","Texture2DContent",1747,8817,0,0028564
+"E:/Game-TDV/Project1/Project1/Content/Character6.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character6.xnb","TextureProcessor","Texture2DContent",1752,8817,0,0024499
+"E:/Game-TDV/Project1/Project1/Content/Character7.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character7.xnb","TextureProcessor","Texture2DContent",1435,8965,0,0021342
+"E:/Game-TDV/Project1/Project1/Content/Character8.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character8.xnb","TextureProcessor","Texture2DContent",1492,8965,0,0025503
+"E:/Game-TDV/Project1/Project1/Content/Character9.png","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/Character9.xnb","TextureProcessor","Texture2DContent",1485,8965,0,0026142
+"E:/Game-TDV/Project1/Project1/Content/File.spritefont","E:/Game-TDV/Project1/Project1/Content/bin/DesktopGL/File.xnb","FontDescriptionProcessor","SpriteFontContent",2068,21535,0,1242621

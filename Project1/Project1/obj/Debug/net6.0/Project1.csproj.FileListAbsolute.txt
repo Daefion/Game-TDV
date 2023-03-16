@@ -30,3 +30,12 @@ E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Crate_Gray.xnb
 E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\EndPoint_Yellow.xnb
 E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Ground_Grass.xnb
 E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\WallRound_Black.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character1.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character10.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character2.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character3.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character5.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character6.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character7.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character8.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character9.xnb
