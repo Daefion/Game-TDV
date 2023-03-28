@@ -39,3 +39,5 @@ E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character6.xnb
 E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character7.xnb
 E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character8.xnb
 E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\Character9.xnb
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\level2.txt
+E:\Game-TDV\Project1\Project1\bin\Debug\net6.0\Content\File1.xnb
